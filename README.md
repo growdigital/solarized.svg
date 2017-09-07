@@ -1,5 +1,6 @@
 # solarized.svg
-Simple Solarized colour palette in SVG format
+
+Simple Solarized colour palette in SVG format. I thought it would be nice to make a website with the gorgeous Solarized palette.
 
 See [Solarized project page](https://github.com/altercation/solarized)
 
