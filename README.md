@@ -4,7 +4,7 @@ Super simple Solarized colour palette in SVG format. I thought it would be nice 
 
 See [Solarized project page](https://github.com/altercation/solarized)
 
-![Solarized color palettes](./solarized.png)
+![Solarized color palettes](./solarized.svg)
 
 ```
 ## Background Tones
